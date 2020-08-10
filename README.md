@@ -7,7 +7,7 @@
 <h1 id="awesome-databricks">Awesome Databricks</h1>
 <p>A curated list of awesome <a href="https://databricks.com/">Databricks</a> resources and examples.</p>
 <blockquote>
-<p><em>This is just an awesome contribution, not official. The official github is <a href="https://github.com/databricks">here</a>.</em></p>
+<p><em>This is just an awesome contribution. Not official. The official github is <a href="https://github.com/databricks">here</a>.</em></p>
 </blockquote>
 <h2 id="contents">Contents</h2>
 <ul>
@@ -117,4 +117,6 @@
 </ul>
 </li>
 </ul>
+<hr>
+<p>Thanks for being awesome! 😎</p>
 
