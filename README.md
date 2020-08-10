@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a></p>
 <h1 id="awesome-databricks">Awesome Databricks</h1>
 <p>A curated list of awesome <a href="https://databricks.com/">Databricks</a> resources and examples.</p>
