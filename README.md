@@ -111,8 +111,15 @@
 <li><a href="https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines">Linkedin Learning: Azure Spark Databricks Essential Training</a></li>
 <li><a href="https://cloudacademy.com/course/running-spark-on-azure-databricks/introduction/?context_resource=lp&amp;context_id=124">Cloud Academy: Running Spark on Azure Databricks</a></li>
 </ul>
-</li>
+</li>  
 </ul>
+<ul>
+<li>Tools
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=uk.aloneguid.databricks.client">Databricks Client for Android</a></li>
+</ul>
+</li>
+  </ul>
 <hr>
 <p>Thanks for being awesome! 😎</p>
 
